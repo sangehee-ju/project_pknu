@@ -1,5 +1,0 @@
-controll : controller를 담고있는 클래스
-SpringVO : db에서 정보를 가져오는 역할을 수행하는 클래스
-SpringDAO : 사용될 메소드들을 알려주는 인터페이스
-SpringDAO_Impl : 기능을 수행할 메소드의 body부분을 담고있는 클래스
-Util : 추가적인 기능(ex 한글 깨짐문제 해결)을 수행하는 메소드를 담고있는 클래스
