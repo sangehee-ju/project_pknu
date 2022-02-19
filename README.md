@@ -9,3 +9,6 @@
 
 ---
 ### [🔥 3rd day(2022-02-03)](https://github.com/sangehee-ju/project_pknu/blob/main/0203.md)
+
+
+https://github.com/pukyung/sib.git 에서 계속
